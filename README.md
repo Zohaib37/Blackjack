@@ -19,5 +19,8 @@ Finally, at the end, the player is given the option to play again (press 'y') or
 \
 A few screenshots of the game:\
 \
-![bj1](https://user-images.githubusercontent.com/64097953/120940061-a6775f80-c734-11eb-9fc2-7a3e6b5af727.png)
+![bj1](https://user-images.githubusercontent.com/64097953/120940061-a6775f80-c734-11eb-9fc2-7a3e6b5af727.png)\
+\
+![bj2](https://user-images.githubusercontent.com/64097953/120940147-3b7a5880-c735-11eb-9572-c72ed9b9b171.png)
+
 
