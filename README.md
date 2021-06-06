@@ -15,5 +15,9 @@ are revealed and the computer wins. However, if the score is under 21, then the 
 \
 If the player types 'n', the final cards of the player and computer are revealed. If any one one of the two gets a score above 21, they lose. However, if both have a score
 of less than 21, then the one with a higher score wins.\
+Finally, at the end, the player is given the option to play again (press 'y') or quit (press 'n').\
 \
-Finally, at the end, the player is given the option to play again (press 'y') or quit (press 'n').
+A few screenshots of the game:\
+\
+![bj1](https://user-images.githubusercontent.com/64097953/120940061-a6775f80-c734-11eb-9fc2-7a3e6b5af727.png)
+
